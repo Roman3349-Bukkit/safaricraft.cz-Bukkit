@@ -1,0 +1,27 @@
+serverName: "CraftBukkit"
+commands:
+  auth: true
+  base: true
+  vip: true
+  builder: true
+  helper: true
+  gm: true
+  admin: true
+redstonereporter:
+  enabled: true
+database:
+  driver: "com.mysql.jdbc.Driver"
+  url: "jdbc:mysql://localhost:3306/safaricraft"
+  login: "root"
+  password: "root"
+chat:
+  announcer:
+    messages: 
+      - "Zprava1"
+      - "Zprava2"
+    interval: 150   
+spawn: []
+warps:
+  ports: []
+  list: []
+player: []

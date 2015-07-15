@@ -1,0 +1,46 @@
+name: SafariCraft
+main: cz.safaricraft.plugin.Main
+authors: [Roman3349, FrostbiteCZ]
+website: http://www.safaricraft.cz/
+version: 1.0.3
+permissions:
+    safaricraft.command.register:
+         default: true
+    safaricraft.command.login:
+         default: true
+    safaricraft.command.help:
+         default: true
+    safaricraft.command.spawn:
+         default: true
+    safaricraft.command.tell:
+         default: true
+    safaricraft.command.getpos:
+         default: true
+    safaricraft.command.who:
+         default: true
+    safaricraft.command.afk:
+         default: true
+    safaricraft.command.home:
+         default: true
+    safaricraft.command.warp:
+         default: true
+    safaricraft.command.y:
+         default: true
+    safaricraft.command.vip:
+         default: op
+    safaricraft.command.helper:
+         default: op
+    safaricraft.command.builder:
+         default: op
+    safaricraft.command.mod:
+         default: op
+    safaricraft.command.warp.admin:
+         default: op
+    safaricraft.command.plugins:
+         default: op
+    safaricraft.command.version:
+         default: op   
+    safaricraft.command.admin:
+         default: op
+    safaricraft.command.say:
+         default: op
